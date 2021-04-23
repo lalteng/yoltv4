@@ -1,0 +1,4 @@
+train = 
+valid =  rareplanes/test/yoltv4/txt/test.txt
+names =  rareplanes/test/yoltv4/txt/rareplanes.name
+backup = backup/
